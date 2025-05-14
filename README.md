@@ -1,18 +1,17 @@
-## Getting Started
+# Projeto Desafio Controle de Fluxo - DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido como parte do módulo "Controle de Fluxo em Java" do Bootcamp da DIO, com o objetivo de fixar os conceitos de estruturas condicionais, laços de repetição e tratamento de exceções personalizadas.
 
-## Folder Structure
+## 🚀 Tecnologias utilizadas
 
-The workspace contains two folders by default, where:
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"> Java](https://docs.oracle.com/en/java/) - Linguagem de programação utilizada
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## ℹ️ Sobre o projeto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O projeto consiste em uma aplicação simples que solicita dois números inteiros ao usuário. O sistema verifica se o segundo número é maior que o primeiro, e caso a condição seja atendida, imprime no console a contagem dos números com base na diferença entre eles. Caso contrário, lança uma exceção personalizada informando o erro.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Trata-se de um exercício simples, desenvolvido exclusivamente para a prática e fixação dos conceitos aprendidos no módulo de Controle de Fluxo do Bootcamp DIO.
 
-## Dependency Management
+## ⚠️ Observação
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este projeto foi desenvolvido seguindo rigorosamente as especificações da tarefa proposta no módulo.
